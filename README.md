@@ -4,14 +4,9 @@
 <h1>
 <p align="center">
   <img 
-
-src= "(https://drive.google.com/file/d/1tQkdWjCfn2kfKKGjEESwHimBxrCZoJCM/view?usp=sharing)" alt="Logo" width="140" height="110">
+![](readme_assests/logo.png)
   <br>Blink To Live
-<h1>
-<p align="center">
-  <img src="https://github.com/ZW01f/Blink-To-Live/blob/master/readme_assests/logo.jpg
-" alt="Logo" width="140" height="110">
-  <br>FastColabCopy
+
 </h1>
 </p>
 <p align="center">
