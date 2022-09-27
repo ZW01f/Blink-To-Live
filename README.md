@@ -5,7 +5,7 @@
 <p align="center">
   <img 
 
-[](/readme_assests/logo.png)
+![](/readme_assests/logo.png)
 src= "/home/zw01f/desktop/logo.png" alt="Logo" width="140" height="110">
   <br>Blink To Live
 </h1>
