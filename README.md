@@ -4,7 +4,7 @@
 <h1>
 <p align="center">
 
-![logo-removebg-preview.png](readme_assests/logo.jpg)
+![logo-removebg-preview.png](readme_assests/logo.png)
 <p color ="blue" ,align="center"  
 <br>Blink To Live 
 
