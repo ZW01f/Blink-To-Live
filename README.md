@@ -1,13 +1,18 @@
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python3-brightgreen)
 <!-- LOGO -->
+<br />
 <h1>
 <p align="center">
-  
-![](./readme_assests/logo.png)
 
-   <br> Blink To Live
+![logo-removebg-preview.png](readme_assests/logo.jpg)
+<p color ="blue" ,align="center"  
+<br>Blink To Live 
 
 </h1>
+  <p align="center">
+    computer vision based mobile application for Patients with speech and verbal motor disorders
+    <br />
+    </p>
 </p>
 <p align="center">
   <a href="#about-the-project">About The Project</a> •
