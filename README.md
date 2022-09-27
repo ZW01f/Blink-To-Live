@@ -7,11 +7,12 @@
 
 src= "(https://drive.google.com/file/d/1tQkdWjCfn2kfKKGjEESwHimBxrCZoJCM/view?usp=sharing)" alt="Logo" width="140" height="110">
   <br>Blink To Live
+<h1>
+<p align="center">
+  <img src="https://github.com/ZW01f/Blink-To-Live/blob/master/readme_assests/logo.jpg
+" alt="Logo" width="140" height="110">
+  <br>FastColabCopy
 </h1>
-  <p align="center">
-    computer vision based mobile application for Patients with speech and verbal motor disorders
-    <br />
-    </p>
 </p>
 <p align="center">
   <a href="#about-the-project">About The Project</a> •
