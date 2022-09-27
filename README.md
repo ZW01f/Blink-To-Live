@@ -6,7 +6,7 @@
   <img 
 
 ![](/readme_assests/logo.png)
-src= "/home/zw01f/desktop/logo.png" alt="Logo" width="140" height="110">
+src= "[/home/zw01f/desktop/logo.png](https://drive.google.com/file/d/1tQkdWjCfn2kfKKGjEESwHimBxrCZoJCM/view?usp=sharing)" alt="Logo" width="140" height="110">
   <br>Blink To Live
 </h1>
   <p align="center">
