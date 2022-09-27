@@ -5,10 +5,10 @@
 <h1>
 <p align="center">
   <img src="/readme_assests/logo.png" alt="Logo" width="140" height="110">
-  <br>FastColabCopy
+  <br>Blink To Live
 </h1>
   <p align="center">
-    Python3 script to transfer files in Google Colab 10-50x faster.
+    Computer vision based mobile application for Patients with speech and verbal motor disorders .
     <br />
     </p>
 </p>
