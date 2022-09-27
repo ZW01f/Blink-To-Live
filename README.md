@@ -4,10 +4,13 @@
 <h1>
 <p align="center">
 
-![logo-removebg-preview.png](readme_assests/logo.png)
-<p color ="blue" ,align="center"  
-<br>Blink To Live 
-
+<br />
+<h1>
+<p align="center">
+  <img src="https://imgur.com/a/vVdJ2Wc
+" alt="Logo" width="140" height="110">
+  <br>FastColabCopy
+</h1>
 </h1>
   <p align="center">
     computer vision based mobile application for Patients with speech and verbal motor disorders
