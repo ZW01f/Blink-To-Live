@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712544176324",
+    "project_id": "blink-to-live-8a3cc",
+    "storage_bucket": "blink-to-live-8a3cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712544176324:android:ba88e3e0a77260d57de191",
+        "android_client_info": {
+          "package_name": "com.example.blink_to_live"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712544176324-6pi16m0ta2jba2qhi4c3prjl43e0srt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALrdUZoDCfsnT1g3YiCBFAQA1WHutsPWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712544176324-6pi16m0ta2jba2qhi4c3prjl43e0srt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

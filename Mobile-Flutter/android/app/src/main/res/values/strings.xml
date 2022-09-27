@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">blink_to_live</string>
+    <string name="facebook_app_id">345788391039252</string>
+    <string name="fb_login_protocol_scheme">fb345788391039252</string>
+    <string name="facebook_client_token">d60fc96737d33152bd489286b82cec8a</string>
+
+</resources>
