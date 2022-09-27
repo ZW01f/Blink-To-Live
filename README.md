@@ -7,9 +7,7 @@
 <br />
 <h1>
 <p align="center">
-  <img src="https://imgur.com/a/vVdJ2Wc
-" alt="Logo" width="140" height="110">
-  <br>FastColabCopy
+  <img src="https://imgur.com/ZZ55akl" alt="Logo" width="140" height="110">
 </h1>
 </h1>
   <p align="center">
