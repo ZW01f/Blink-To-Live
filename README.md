@@ -1,20 +1,19 @@
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python3-brightgreen)
+
 <!-- LOGO -->
 <br />
 <h1>
 <p align="center">
-
-<br />
-<h1>
-<p align="center">
-  <img src="https://imgur.com/ZZ55akl" alt="Logo" width="140" height="110">
-</h1>
+  <img src="https://imgur.com/a/vVdJ2Wc
+" alt="Logo" width="140" height="110">
+  <br>FastColabCopy
 </h1>
   <p align="center">
-    computer vision based mobile application for Patients with speech and verbal motor disorders
+    Python3 script to transfer files in Google Colab 10-50x faster.
     <br />
     </p>
 </p>
+
 <p align="center">
   <a href="#about-the-project">About The Project</a> •
   <a href="# Requirements">Requirements</a> •
