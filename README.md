@@ -27,16 +27,15 @@
 
 Patients with speech and verbal motor disorders have difficulties to communicate withtheir living world. They gradually lose the ability to control their muscles leading to a completely paralysis stage with their eye’s pupil is the only available movement organ for initiating a communication with the others. 
 
+![patients_video](//readme_assests/vid1.mp4)
 
-
-**Blink-To-Live** is a computer vision based mobile application for tracking the eight eye states defined in the [Blink-To-Speak](https://www.blinktospeak.com/blink-to-speak-book)book that encodes the language key alphabets, and consequently daily life commands.
-
-
-Our Project utilized a communication language based on eyes blinks and translates it to a sequence of communicated sentences based on the pre-defined eye's blinks alphabets called Blink to Speak. The camera will be used to track the patient's eyes and the computer vision module will be used to decode the eyes movements/blinks and translated it to the corresponding communicated sentences. 
-
+**Blink-To-Live** is a computer vision based mobile application for tracking the eight eye states defined in the [Blink-To-Speak](https://www.blinktospeak.com/blink-to-speak-book)book which is a communication language based on eyes blinks and translates it to a sequence of communicated sentences based on the pre-defined eye's blinks alphabets called Blink to Speak. 
+  
+The camera will be used to track the patient's eyes and the computer vision module will be used to decode the eyes movements/blinks and translated it to the corresponding communicated sentences. 
 
 the patient can learn the eye's alphabets via our application in the fast and efficient manner.
-# Requirements 
+
+  # Requirements 
 ```
   pip install fastapi
   ```
