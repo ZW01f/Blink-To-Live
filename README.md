@@ -3,10 +3,10 @@
 <br />
 <h1>
 <p align="center">
-  <img 
+  
 ![](./readme_assests/logo.png)
 
-       <br>Blink To Live
+   <br> Blink To Live
 
 </h1>
 </p>
