@@ -37,11 +37,11 @@ Our Project utilized a communication language based on eyes blinks and translate
 
 the patient can learn the eye's alphabets via our application in the fast and efficient manner.
 # Requirements 
-`pip install fastapi`
-`pip install opencv-python`
-`pip install numpy`
-`pip install dlib`
-`pip install time`
+```pip install fastapi```
+```pip install opencv-python```
+```pip install numpy```
+```pip install dlib```
+```pip install time```
 
 # How to use 
 ## for CV model
