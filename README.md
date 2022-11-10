@@ -66,4 +66,10 @@ Run the Flutter project on your real device, signup with your phone, Facebook, g
 [177432185-6d5289a4-9874-4352-a8bd-5e8f86229225.webm](https://user-images.githubusercontent.com/55991929/192772981-43837977-e75a-4202-862d-d78e63fa9acc.webm)
 
 # References
-TO-DO
+1. Sane, H. [Blink-To-Speak] (https://www.blinktospeak.com/blink-to-speak-guide).
+2. [Dlib C++ Library for Real-Time Face Pose Estimation] (http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html).
+3. [Translate python library] (https://pypi.org/project/translate/).
+4. [Text to Speech Service by Microsoft Azure](https://azure.microsoft.com/en-in/services/cognitive-services/text-to-speech/).
+5. [FastAPI] (https://fastapi.tiangolo.com/).
+
+  
