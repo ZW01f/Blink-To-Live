@@ -55,7 +55,7 @@ the patient can learn the eye's alphabets via our application in the fast and ef
 # How to use 
 ## for CV model
 1. Download Requirements
-2. Download [Dlib-face landmarks](computer%20vision/Dlibface_landmarks%20model) model attached .
+2. Download [Dlib-face landmarks](https://github.com/ZW01f/Blink-To-Live/tree/master/computer%20vision/Dlib-face_landmarks%20model) model attached .
 3. put it in the same path with **CV-Model-final.py** 
 4. Run **CV-Model-final.py** 
 
