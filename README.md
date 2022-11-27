@@ -58,11 +58,10 @@ the patient can learn the eye's alphabets via our application in the fast and ef
   pip install pyttsx3
   ```
 # How to use 
-## for CV model
-1. Download Requirements
-2. Download [Dlib-face landmarks](https://github.com/ZW01f/Blink-To-Live/tree/master/computer%20vision/Dlib-face_landmarks%20model) model attached .
-3. put it in the same path with **CV-Model-final.py** 
-4. Run **CV-Model-final.py** 
+## Desktop version
+1. Install Project Dependencies
+2. Clone the [GitHub repo](https://github.com/ZW01f/Blink-To-Live), e.g. with `git clone https://github.com/ZW01f/Blink-To-Live.git`
+3. Run **python CV-Model-final.py** 
 
 ## for application
 Run the Flutter project on your real device, signup with your phone, Facebook, gmail or whatever you want, and then choose if you want to learn a language or if you want to understand the patient directly by opening the camera from the Understand the Patient screen and noticing the patient's face. The app will then show what the patient intends to say.
