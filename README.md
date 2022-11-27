@@ -35,7 +35,7 @@ The camera will be used to track the patient's eyes and the computer vision modu
 
 the patient can learn the eye's alphabets via our application in the fast and efficient manner.
 
-  # Requirements 
+  # Project Dependencies
 ```
   pip install fastapi
   ```
