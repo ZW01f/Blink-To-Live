@@ -51,7 +51,12 @@ the patient can learn the eye's alphabets via our application in the fast and ef
 ```
   pip install time
   ```
-
+```
+  pip install translate
+  ```
+```
+  pip install pyttsx3
+  ```
 # How to use 
 ## for CV model
 1. Download Requirements
