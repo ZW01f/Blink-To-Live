@@ -63,7 +63,7 @@ the patient can learn the eye's alphabets via our application in the fast and ef
 2. Clone the [GitHub repo](https://github.com/ZW01f/Blink-To-Live), e.g. with `git clone https://github.com/ZW01f/Blink-To-Live.git`
 3. Run **python CV-Model-final.py** 
 
-## for application
+## Mobile Application version
 Run the Flutter project on your real device, signup with your phone, Facebook, gmail or whatever you want, and then choose if you want to learn a language or if you want to understand the patient directly by opening the camera from the Understand the Patient screen and noticing the patient's face. The app will then show what the patient intends to say.
 
 # Demo 
